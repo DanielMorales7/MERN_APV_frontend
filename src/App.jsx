@@ -15,7 +15,7 @@ import EditarPerfil from './paginas/EditarPerfil';
 //provider es el que contiene los datos con eso hacemos disponibles los datos en los componente
 import { AuthProvider } from './context/AuthProvider'
 import { PacientesProvider } from './context/PacientesProvider'
-
+// funciona please
 
 function App() {
 
